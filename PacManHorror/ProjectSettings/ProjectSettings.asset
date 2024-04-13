@@ -146,9 +146,10 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 7566750353393517159, guid: e0401a797e2827a4c9fe55e2e1967254, type: 2}
   - {fileID: 0}
-  - {fileID: -4228100642005413512, guid: 6004aa0329179564db66d502f65a4b06, type: 2}
+  - {fileID: -3872944166595674347, guid: e0401a797e2827a4c9fe55e2e1967254, type: 2}
+  - {fileID: 0}
+  - {fileID: -6440363070033492614, guid: 6004aa0329179564db66d502f65a4b06, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -676,7 +677,7 @@ PlayerSettings:
   webGLDebugSymbols: 0
   webGLEmscriptenArgs: 
   webGLModulesDirectory: 
-  webGLTemplate: APPLICATION:Default
+  webGLTemplate: APPLICATION:Minimal
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
   webGLCompressionFormat: 1
@@ -705,8 +706,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Template_3D
-  metroPackageVersion: 
+  metroPackageName: Template3D
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -714,7 +715,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Template_3D
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: PacManHorror
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
