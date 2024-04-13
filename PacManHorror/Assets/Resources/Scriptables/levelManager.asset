@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebf0a2ded6e5f1545a1635ffa493f0b1, type: 3}
+  m_Name: levelManager
+  m_EditorClassIdentifier: 
+  totalLevels: 2
+  levelsLeft: 2
+  columnSize: 11
+  rowSize: 11
