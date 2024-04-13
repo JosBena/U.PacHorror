@@ -1,2 +1,2 @@
-# IT383 - The Horror Of Pac-Man
+# Horror Pacman game VR Made in University
 
